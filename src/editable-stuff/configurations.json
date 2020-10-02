@@ -24,6 +24,12 @@
       "image": "fa-microsoft",
       "url": "https://docs.microsoft.com/en-us/users/benettimauroanibal-3010/",
       "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fas fa-code",
+      "url": "https://www.maurobenetti.ml",
+      "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
