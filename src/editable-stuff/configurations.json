@@ -27,7 +27,7 @@
     },
     {
       "id": 3,
-      "image": "fa-code",
+      "image": "fas fa-file-code",
       "url": "https://www.maurobenetti.ml",
       "style": "socialicons"
     }
