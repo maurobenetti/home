@@ -30,7 +30,7 @@ const Interests = () => {
                 <p className="lead text-center" style={{fontSize:'28px'}}>Data Science </p>
                 <img src="https://img.icons8.com/ios/72/bot.png"/>
                 <p className="lead text-center">
-                Every day I read or learn something new about this fascinating fields. I believed that soon, Cognitive Systems will enhance human capabilities to the point we would be able to spend more time doing what we want and less working for the living.
+                Every day I read or learn something new about this fascinating fields. I believed that soon, Cognitive Systems will enhance humans to the point we would be able to spend more time doing what we want and less doing repetitive tasks.
                 </p>
                 </div>
                 <div className="col text-center">
@@ -51,7 +51,7 @@ const Interests = () => {
                 <p className="lead text-center" style={{fontSize:'28px'}}>Riding my bicycle</p>
                 <img src="https://img.icons8.com/dotty/80/000000/cycling-mountain-bike.png"/>
                 <p className="lead text-center">
-                I love riding my bicycle long distances, before coming to Germany I traveled for one month in Patagonia only with my tend and my bike. In Germany I travelled the route that connects the origin of the Danube river to Black Sea. I already have the first 500 kms and my plan is continuing.
+                I love riding my bicycle long distances, before coming to Germany I traveled for one month in Patagonia only with my tend and my bike. In Germany I travelled the route that connects the origin of the Danube river to Black Sea. 
                 </p>
                 </div>
             </div>
