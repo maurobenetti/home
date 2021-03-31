@@ -4,10 +4,7 @@
   "homepage": "https://maurobenetti.github.io",
   "version": "0.1.0",
   "private": true,
-  "author": {
-    "name": "Mauro Benetti",
-    "url": "https://github.com/mbenetti"
-  },
+  "author": "Mauro Benetti (https://github.com/mbenetti)",
   "dependencies": {
     "@popperjs/core": "^2.1.1",
     "axios": "^0.19.2",
@@ -50,5 +47,14 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
+  },
+  "main": "pages.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurobenetti/home.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maurobenetti/home/issues"
   }
 }
