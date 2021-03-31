@@ -29,7 +29,7 @@ import {
           <div className="d-inline align-self-center">
           <h2 className="display-4 pb-3 text-center">Get In Touch</h2>
           <p className="lead text-center" style={{fontSize:'22px'}}>
-            I would love to be helpful for your project. Please do not hesitate to add me in LinkedIn.   
+            I would love to be helpful for your project. Please do not hesitate to add me on LinkedIn.   
           </p>
           
             {/* {icons.map((icon) => (
