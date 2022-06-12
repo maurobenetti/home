@@ -1,10 +1,10 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "https://maurobenetti.github.io",
+  "homepage": "https://maurobenetti.github.io/home",
   "version": "0.1.0",
   "private": true,
-  "author": "Mauro Benetti (https://github.com/mbenetti)",
+  "author": "Mauro Benetti",
   "dependencies": {
     "@popperjs/core": "^2.1.1",
     "axios": "^0.19.2",
