@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4f21ac680d511ff466d0fd0bafdf80f",
+    "revision": "64755c8216723716802640d5fbc4abba",
     "url": "/home/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/home/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "b52839321a9bb1452161",
-    "url": "/home/static/css/main.7d725732.chunk.css"
+    "revision": "1363d3500bc73d9563e8",
+    "url": "/home/static/css/main.6d669c25.chunk.css"
   },
   {
     "revision": "bfd89df12846cf89e856",
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/home/static/js/2.75d91922.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b52839321a9bb1452161",
-    "url": "/home/static/js/main.a642e64b.chunk.js"
+    "revision": "1363d3500bc73d9563e8",
+    "url": "/home/static/js/main.9791f9c8.chunk.js"
   },
   {
     "revision": "5c07ecca0456e28e04f0",
     "url": "/home/static/js/runtime-main.e084aacb.js"
   },
   {
-    "revision": "be1a49529b0a41677000e96b6bc0d474",
-    "url": "/home/static/media/CV BenettiM-Webpage.be1a4952.pdf"
+    "revision": "1fcfb2c45f7b9987cbe27d53eb89fd97",
+    "url": "/home/static/media/CV BenettiM-Webpage.1fcfb2c4.pdf"
   },
   {
     "revision": "19be5a4fcf553676b069b7c471ba304e",
