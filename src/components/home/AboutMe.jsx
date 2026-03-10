@@ -20,7 +20,6 @@ const divStyle = {
 const AboutMe = () => {
   const [instaProfilePic, setInstaProfilePic] = useState("");
   const [showInsta, setShowInsta] = useState(showInstaProfilePic);
-  const [resumeURL] = useState(null);
 
   useEffect(() => {
     if (showInsta) {
@@ -63,21 +62,7 @@ const AboutMe = () => {
             </div>
             <div className="col d-lg-inline align-self-center">
             <h1 className="display-4 mb-5 text-center">{aboutHeading}</h1>
-            <p className="lead text-center">{aboutDescription}</p><br/>
-            {resumeURL && (
-              <p className="lead text-center">
-                <a 
-                  className="btn btn-outline-dark btn-lg"
-                  href={resumeURL}
-                  target="_blank"
-                  rel="noreferrer noopener"
-                  role="button"
-                  
-                >
-                  Resume
-                </a>
-              </p>
-            )}
+            <p className="lead text-center">{aboutDescription}</p>
           </div>
         </div>
       </div>
