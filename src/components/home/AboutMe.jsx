@@ -1,6 +1,6 @@
 import React, { useState, useEffect, Profiler } from "react";
 import axios from "axios";
-import Pdf from "../../editable-stuff/CV BenettiM-Webpage.pdf";
+// import Pdf from "../../editable-stuff/CV BenettiM-Webpage.pdf";
 import Profile from "../../editable-stuff/Profile.jpg"
 import {Helmet} from "react-helmet";
 
@@ -20,7 +20,7 @@ const divStyle = {
 const AboutMe = () => {
   const [instaProfilePic, setInstaProfilePic] = useState("");
   const [showInsta, setShowInsta] = useState(showInstaProfilePic);
-  const [resumeURL] = useState(Pdf);
+  const [resumeURL] = useState(null);
 
   useEffect(() => {
     if (showInsta) {
@@ -68,7 +68,7 @@ const AboutMe = () => {
               <p className="lead text-center">
                 <a 
                   className="btn btn-outline-dark btn-lg"
-                  href={Pdf}
+                  href={resumeURL}
                   target="_blank"
                   rel="noreferrer noopener"
                   role="button"
