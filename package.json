@@ -1,7 +1,7 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "https://maurobenetti.github.io/home",
+  "homepage": "https://mbenetti.github.io/portfolio/",
   "version": "0.1.0",
   "private": true,
   "author": "Mauro Benetti",
@@ -51,10 +51,10 @@
   "main": "pages.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maurobenetti/home.git"
+    "url": "git+https://github.com/anaashrafi/home.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maurobenetti/home/issues"
+    "url": "https://github.com/anaashrafi/home/issues"
   }
 }
