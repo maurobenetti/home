@@ -8,8 +8,7 @@
 </p>
 
 
-## Technology Stack 
-
+## Technology Stack
 Dependencies defined in package.json:
 
 [Reactjs](https://reactjs.org/)
